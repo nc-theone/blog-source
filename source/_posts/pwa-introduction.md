@@ -1,7 +1,9 @@
 ---
 title: PWA入门指导
 tags: pwa
+date: 2018-04-04 15:41:45
 ---
+
 PWA：一种webapp模型，中文译为`渐进式网页应用`；提供接近与Native的交互体验
 
 
