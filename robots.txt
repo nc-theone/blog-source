@@ -1,0 +1,1 @@
+Sitemap: http://nx-theone.github.io/sitemap_location.xml
